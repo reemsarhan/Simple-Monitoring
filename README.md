@@ -9,6 +9,7 @@ This project demonstrates how to set up and customize a monitoring dashboard usi
 
 ---
 Netdata is a free, open-source, real-time performance monitoring tool designed to track system and application metrics. It provides detailed insights into CPU usage, memory, disk I/O, network activity, and more through an interactive web-based dashboard. Lightweight and efficient, Netdata collects thousands of metrics per second without affecting system performance. It also includes customizable alerts, enabling you to set thresholds for specific metrics, such as CPU usage exceeding 80%. With its extensive range of plugins, it can monitor various services, applications, and containers, making it a versatile tool for troubleshooting and maintaining system health.
+---
 
 ## Features
 - Real-time monitoring of system metrics: CPU, memory, disk I/O, and more.
